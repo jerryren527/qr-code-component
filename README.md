@@ -6,8 +6,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -26,6 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Live Site URL: [Live Demo](https://jerryren527.github.io/qr-code-component/)
+- Figma File: [Personal Figma File](https://www.figma.com/file/WgcYUgKCizbC6C0d2ZgVV9/qr-code-component?node-id=0%3A1&t=PMYKcSw5N58Evi3D-1)
 
 ## My process
 
