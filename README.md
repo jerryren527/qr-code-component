@@ -56,8 +56,7 @@ To position an element to be in the center of the screen, you can use the follow
 - Here position the element absolutely.
 - Position the top left corner of the element at the center of the screen.
 - `transform: translate(-50%, -50%);` translates the element up and left by 50% of its height and width, respectively. This aligns the element's center with the center of the screen.
-<<<<<<< HEAD
-=======
+
 
 To create a responsive design where the image's width fits within the container, use `max-width: 100%` to ensure that the image's width adjusts to fit the container:
 
@@ -68,4 +67,3 @@ To create a responsive design where the image's width fits within the container,
 ```
 
 - make sure to remove any `width` rules from the css file that tkae precedence over the `max-width` rule, which may not be responsive to different screen sizes.
->>>>>>> origin/main
