@@ -11,7 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -19,11 +18,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 #### Desktop View:
 
-<img src='2023-03-05-21-00-18.png' width='500'>
+<img src='src/img/2023-03-05-21-00-18.png' width='500'>
 
 #### Mobile View:
 
-<img src='2023-03-05-20-59-40.png' width='300'>
+<img src='src/img/2023-03-05-20-59-40.png' width='300'>
 
 ### Links
 
