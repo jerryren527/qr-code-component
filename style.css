@@ -40,3 +40,17 @@ body {
   text-align: center;
   margin-bottom: 20px;
 }
+
+@media screen and (min-width: 760px) {
+  .container {
+    width: 420px;
+  }
+
+  .container img {
+    width: 374px;
+  }
+
+  .text-subheader {
+    width: 348px;
+  }
+}
